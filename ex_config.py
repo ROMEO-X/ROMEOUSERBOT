@@ -16,6 +16,10 @@ class Development(Config):
   # String session will be saved in your saved message of telegram.
   # Put that string here.
   ROMEOBOT_SESSION = "Your value"
+  SESSION_2 = "Your value"
+  SESSION_3 = "Your value"
+  SESSION_4 = "Your value"
+  SESSION_5 = "Your value"
 
   # Create a bot in @BotFather
   # And fill the following values with bot token and username.
